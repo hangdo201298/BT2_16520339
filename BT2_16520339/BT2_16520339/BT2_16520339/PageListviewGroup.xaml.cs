@@ -15,6 +15,7 @@ namespace BT2_16520339
 		public PageListviewGroup ()
 		{
 			InitializeComponent ();
+
             LoaiHoa l = new LoaiHoa();
             lstHoa.ItemsSource = l.Loaihoas;
 		}
