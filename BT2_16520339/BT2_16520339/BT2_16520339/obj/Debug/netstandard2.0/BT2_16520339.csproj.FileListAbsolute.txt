@@ -1,0 +1,14 @@
+C:\Users\hang\source\repos\BT2_16520339\BT2_16520339\BT2_16520339\bin\Debug\netstandard2.0\BT2_16520339.deps.json
+C:\Users\hang\source\repos\BT2_16520339\BT2_16520339\BT2_16520339\bin\Debug\netstandard2.0\BT2_16520339.dll
+C:\Users\hang\source\repos\BT2_16520339\BT2_16520339\BT2_16520339\bin\Debug\netstandard2.0\BT2_16520339.pdb
+C:\Users\hang\source\repos\BT2_16520339\BT2_16520339\BT2_16520339\obj\Debug\netstandard2.0\BT2_16520339.csprojAssemblyReference.cache
+C:\Users\hang\source\repos\BT2_16520339\BT2_16520339\BT2_16520339\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hang\source\repos\BT2_16520339\BT2_16520339\BT2_16520339\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hang\source\repos\BT2_16520339\BT2_16520339\BT2_16520339\obj\Debug\netstandard2.0\PageListviewHoa.xaml.g.cs
+C:\Users\hang\source\repos\BT2_16520339\BT2_16520339\BT2_16520339\obj\Debug\netstandard2.0\BT2_16520339.csproj.CoreCompileInputs.cache
+C:\Users\hang\source\repos\BT2_16520339\BT2_16520339\BT2_16520339\obj\Debug\netstandard2.0\BT2_16520339.AssemblyInfoInputs.cache
+C:\Users\hang\source\repos\BT2_16520339\BT2_16520339\BT2_16520339\obj\Debug\netstandard2.0\BT2_16520339.AssemblyInfo.cs
+C:\Users\hang\source\repos\BT2_16520339\BT2_16520339\BT2_16520339\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hang\source\repos\BT2_16520339\BT2_16520339\BT2_16520339\obj\Debug\netstandard2.0\BT2_16520339.dll
+C:\Users\hang\source\repos\BT2_16520339\BT2_16520339\BT2_16520339\obj\Debug\netstandard2.0\BT2_16520339.pdb
+C:\Users\hang\source\repos\BT2_16520339\BT2_16520339\BT2_16520339\obj\Debug\netstandard2.0\PageListviewGroup.xaml.g.cs

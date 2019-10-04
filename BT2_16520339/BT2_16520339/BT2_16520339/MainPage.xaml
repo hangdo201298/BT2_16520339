@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BT2_16520339"
+             x:Class="BT2_16520339.MainPage">
+
+    <ScrollView>
+        <StackLayout>
+            <Button Text="Hiển thị danh sách hoa" x:Name="displayList" Clicked="DisplayList_Clicked"/>
+            <Button Text="Hiển thị Group hoa" x:Name="displayGroup" Clicked="DisplayGroup_Clicked"/>
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>
